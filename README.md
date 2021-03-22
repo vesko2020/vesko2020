@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
 -->
 ## Vesko Petrovic
+
+<!--
 I am an Assistant Professor in the [Department of Geography](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/) at the [University of Tennessee, Knoxville](https://www.utk.edu/). My research interests include Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, especially surface water and wetland inundation dynamics. I am a strong advocate of open science and reproducible research. More information about my research and teaching can be found on my [personal website](https://wetlands.io/) and [research blog](https://blog.gishub.org/).
 
 ---
@@ -38,7 +40,7 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 - **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
 
 ---
-
+-->
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
