@@ -26,21 +26,21 @@ Here are some ideas to get you started:
 -->
 ## Vesko Petrovic
 
-EDUCATION & CONTINUOUS LEARNING
-Bachelor of Science in Mathematics - University of Belgrade – Faculty of Mathematics  
-Master’s Actuarial Sciences - Institute of Economic Studies – Belgrade, Serbia
+EDUCATION & CONTINUOUS LEARNING  
+Bachelor of Science in Mathematics - University of Belgrade – Faculty of Mathematics   
+Master’s Actuarial Sciences - Institute of Economic Studies – Belgrade, Serbia  
 
-Essbase Technical Bootcamp Certification Completion
-IBM TM1 – Multi-dimensional Database Training and Certification
-UDEMY – 10+ Microsoft SQL Server courses
-UDEMY – 10+ Python coursing including various software libraries
-UDEMY – 10+ Machine Learning courses (based on Python, ‘R’ programming language)
+Essbase Technical Bootcamp Certification Completion  
+IBM TM1 – Multi-dimensional Database Training and Certification  
+UDEMY – 10+ Microsoft SQL Server courses  
+UDEMY – 10+ Python coursing including various software libraries  
+UDEMY – 10+ Machine Learning courses (based on Python, ‘R’ programming language)  
 
-HOBBIES
-Study new technologies:
-- Microsoft SQL Server 2017/2019 on Windows and Ubuntu OS,
-- Machine Learning with Python, ‘R’, Julia,
-- Neo4j Graphical db, MongoDB document db)
+HOBBIES  
+Study new technologies:  
+- Microsoft SQL Server 2017/2019 on Windows and Ubuntu OS,  
+- Machine Learning with Python, ‘R’, Julia,  
+- Neo4j Graphical db, MongoDB document db)  
 
 
 <!--
