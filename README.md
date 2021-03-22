@@ -26,6 +26,23 @@ Here are some ideas to get you started:
 -->
 ## Vesko Petrovic
 
+EDUCATION & CONTINUOUS LEARNING
+Bachelor of Science in Mathematics - University of Belgrade – Faculty of Mathematics  
+Master’s Actuarial Sciences - Institute of Economic Studies – Belgrade, Serbia
+
+Essbase Technical Bootcamp Certification Completion
+IBM TM1 – Multi-dimensional Database Training and Certification
+UDEMY – 10+ Microsoft SQL Server courses
+UDEMY – 10+ Python coursing including various software libraries
+UDEMY – 10+ Machine Learning courses (based on Python, ‘R’ programming language)
+
+HOBBIES
+Study new technologies:
+- Microsoft SQL Server 2017/2019 on Windows and Ubuntu OS,
+- Machine Learning with Python, ‘R’, Julia,
+- Neo4j Graphical db, MongoDB document db)
+
+
 <!--
 I am an Assistant Professor in the [Department of Geography](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/) at the [University of Tennessee, Knoxville](https://www.utk.edu/). My research interests include Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, especially surface water and wetland inundation dynamics. I am a strong advocate of open science and reproducible research. More information about my research and teaching can be found on my [personal website](https://wetlands.io/) and [research blog](https://blog.gishub.org/).
 
