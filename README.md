@@ -41,19 +41,3 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 
 ---
 -->
-### Latest Blog Posts
-
-<!-- HASHNODE:START -->
-- [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
-- [The MapScaping Podcast - Introducing Google Earth Engine‬](https://blog.gishub.org/the-mapscaping-podcast-introducing-google-earth-engine)
-- [Visual Studio Code Tips & Tricks](https://blog.gishub.org/visual-studio-code-tips-and-tricks)
-- [Google Colab Tips and Tricks](https://blog.gishub.org/google-colab-tips-and-tricks)
-- [GEE Tutorial #52 - How to create timelapse animations with custom projection, scale bar, and north arrow](https://blog.gishub.org/gee-tutorial-52-how-to-create-timelapse-animations-with-custom-projection-scale-bar-and-north-arrow)
-<!-- HASHNODE:END -->
-
----
-
-![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide=javascript,go,html)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
